@@ -1,0 +1,5 @@
+echo "1. Ex07_codigo_prueba.js"
+echo "2. Ex09_declaracion_vars.js"
+echo "3. Ex10_funciones.js"
+echo "4. Ex11_referencias.js"
+echo "5. Ex12_contexto_funcional.js"

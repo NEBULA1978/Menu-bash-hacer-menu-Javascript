@@ -1,0 +1,9 @@
+
+ex1000_ordenar_cadenas_segun_ultimo_caracter.py
+ex1001_ordenar_numeros_segun_modulo.py
+ex1002_extraer_vocales_minusculas_texto.py
+ex1003_extraer_consonantes_mayusculas_texto.py
+ex1004_extraer_vocales_mayusculas_texto.py
+ex1005_extraer_consonantes_minuculas_textoy.py
+ex1006_extraer_numeros_cadena_filter_funcion.py
+ex1007_filtrar_mapear_datos_lista.py

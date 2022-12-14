@@ -1,0 +1,24 @@
+escribo :./'prueba-nombres-menu-BUENO copy.sh' y me muestra por pantalla y copio aqui,
+no me envia al arcjivo nombre2.txt?¿?¿?¿Mirar
+
+
+0)
+node Ex07_codigo_prueba.js
+read foo
+;;
+1)
+node Ex09_declaracion_vars.js
+read foo
+;;
+2)
+node Ex10_funciones.js
+read foo
+;;
+3)
+node Ex11_referencias.js
+read foo
+;;
+4)
+node Ex12_contexto_funcional.js
+read foo
+;;
